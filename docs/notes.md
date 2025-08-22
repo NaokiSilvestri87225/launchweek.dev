@@ -7,3 +7,4 @@ Notes and usage details for launchweek.dev.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
