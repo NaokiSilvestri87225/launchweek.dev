@@ -16,3 +16,4 @@ Notes and usage details for launchweek.dev.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
